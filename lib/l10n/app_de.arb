@@ -627,6 +627,7 @@
   "english": "English",
   "german": "Deutsch",
   "spanish": "Español (beta)",
+  "french": "Französisch",
   "reportTrack": "Titel melden",
   "@reportTrack": {
     "description": "Title for reporting issues with a meditation track"

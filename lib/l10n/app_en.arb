@@ -732,6 +732,7 @@
   "english": "English",
   "german": "Deutsch",
   "spanish": "Español (beta)",
+  "french": "Français",
   "reportTrack": "Report Track",
   "@reportTrack": {
     "description": "Title for reporting issues with a meditation track"

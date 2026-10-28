@@ -54,4 +54,5 @@ class LocaleConstants {
   static const String english = 'en';
   static const String spanish = 'es';
   static const String german = 'de';
+  static const String french = 'fr';
 }

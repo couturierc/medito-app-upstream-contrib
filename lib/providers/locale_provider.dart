@@ -29,10 +29,10 @@ class LocaleNotifier extends Notifier<Locale?> {
     );
 
     if (savedLocale == null || savedLocale == LocaleConstants.system) {
-      // Force English until backend is ready for Spanish and German
+      // Force English until backend is ready for Spanish, German and French
       return const Locale(LocaleConstants.english);
     } else {
-      // Force English even if Spanish or German was previously selected
+      // Force English even if Spanish, German or French was previously selected
       return const Locale(LocaleConstants.english);
     }
   }
@@ -44,7 +44,7 @@ class LocaleNotifier extends Notifier<Locale?> {
       localeCode,
     );
 
-    // Force English until backend is ready for Spanish and German
+    // Force English until backend is ready for Spanish, German and French
     state = const Locale(LocaleConstants.english);
   }
 
@@ -64,6 +64,8 @@ class LocaleNotifier extends Notifier<Locale?> {
         return AppLocalizations.of(context)!.spanish;
       case LocaleConstants.german:
         return AppLocalizations.of(context)!.german;
+      case LocaleConstants.french:
+        return AppLocalizations.of(context)!.french;
       default:
         return AppLocalizations.of(context)!.systemLanguage;
     }
