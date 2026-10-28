@@ -19,19 +19,19 @@
     "description": "Accessibility label for a drag handle that reorders a list item"
   },
   "meditationProducts": "La boutique solidaire",
-  "blackFridayTitle": "Soutiens la méditation gratuite",
-  "blackFridaySubtitle": "Pour ce Black Friday, soutiens la méditation gratuite pour tous. Ton achat aide à garder Medito gratuit et accessible à des millions de personnes dans le monde",
+  "blackFridayTitle": "Soutenez la méditation gratuite",
+  "blackFridaySubtitle": "Pour ce Black Friday, soutenez la méditation gratuite pour tous. Votre achat aide à garder Medito gratuit et accessible à des millions de personnes dans le monde",
   "blackFridaySeeAllButton": "Voir la boutique",
   "fromPrefix": "À partir de ",
-  "emptyDownloadsMessage": "On dirait que tu n’as encore rien téléchargé. Les téléchargements permettent d’économiser tes données mobiles ou d’accéder aux séances sans réseau.",
-  "meanWhileListen": "En attendant, tu peux écouter ton",
+  "emptyDownloadsMessage": "On dirait que vous n’avez encore rien téléchargé. Les téléchargements permettent d’économiser vos données mobiles ou d’accéder aux séances sans réseau.",
+  "meanWhileListen": "En attendant, vous pouvez écouter votre",
   "retrying": "Nouvelle tentative…",
   "tryAgain": "Réessayer",
   "retry": "Réessayer",
   "statsSuccess": "Statistiques mises à jour",
-  "shareStatsText": "Découvre la sérénité GRATUITEMENT avec #Medito. J’ai trouvé ma paix intérieure, à ton tour maintenant ! Rejoins-moi dans ce voyage de pleine conscience et commence à explorer dès aujourd’hui 💜 Télécharge https://medito.app #Calm #Meditation #Headspace",
+  "shareStatsText": "Découvrez la sérénité GRATUITEMENT avec #Medito. J’ai trouvé ma paix intérieure, à votre tour maintenant ! Rejoignez-moi dans ce voyage de pleine conscience et commencez à explorer dès aujourd’hui 💜 Téléchargez https://medito.app #Calm #Meditation #Headspace",
   "backgroundSounds": "Son d’ambiance",
-  "changeBackgroundSoundsHint": "Appuie ici pour changer les sons d’ambiance ou les cloches.",
+  "changeBackgroundSoundsHint": "Appuyez ici pour changer les sons d’ambiance ou les cloches.",
   "@changeBackgroundSoundsHint": {
     "description": "One-time tooltip above the player's background sound button on the second visit with a background sound or session bells enabled."
   },
@@ -45,12 +45,12 @@
   "@search": {
     "description": "Label of the search button in the floating navigation bar"
   },
-  "searchEmptyHint": "Trouve un programme ou une séance. Essaie sommeil, anxiété ou concentration.",
+  "searchEmptyHint": "Trouvez un programme ou une séance. Essayez sommeil, anxiété ou concentration.",
   "@searchEmptyHint": {
     "description": "Shown on the search page before anything is typed"
   },
   "share": "Partager",
-  "tapToShare": "Appuie pour partager",
+  "tapToShare": "Appuyez pour partager",
   "id": "id",
   "env": "env",
   "email": "email",
@@ -66,7 +66,7 @@
   "thanksForSharingNeutral": "Visage neutre",
   "thanksForSharingHappy": "Visage content",
   "thanksForSharingSad": "Visage triste",
-  "ratingAskTitle": "Peux-tu laisser une note à Medito ?",
+  "ratingAskTitle": "Pouvez-vous laisser une note à Medito ?",
   "@ratingAskTitle": {
     "description": "Title of the one-time ask for a store rating, shown on the end screen after the user taps the happy face"
   },
@@ -80,25 +80,25 @@
   "someThingWentWrong": "Un problème est survenu",
     "invalidEmail": "E-mail invalide.",
     "emailForReceipt": "E-mail pour le reçu",
-    "emailForReceiptDescription": "Nous enverrons ton reçu de don à cette adresse e-mail. Cela nous aide à identifier ton paiement pour le suivi et les justificatifs.",
+    "emailForReceiptDescription": "Nous enverrons votre reçu de don à cette adresse e-mail. Cela nous aide à identifier votre paiement pour le suivi et les justificatifs.",
     "fieldRequired": "Ce champ est requis",
   "invalidInput": "Saisie invalide",
   "connectionTimeout": "Erreur : délai de connexion dépassé",
   "noInternetConnection": "Pas de connexion internet",
   "badRequest": "Requête invalide",
-  "unauthorizedRequest": "Session expirée - merci de te reconnecter",
+  "unauthorizedRequest": "Session expirée - merci de vous reconnecter",
   "accessForbidden": "Accès refusé",
   "apiNotFound": "API introuvable",
-  "anErrorOccurred": "Une erreur inconnue s’est produite. Soit nous rencontrons un problème, soit tu es hors ligne.",
-  "unableToLoadAudio": "Impossible de charger l’audio. Reviens en arrière et réessaie",
-  "loadingError": "On dirait que tu es hors ligne ou qu’un petit souci est survenu de notre côté",
-  "timeout": "Oups ! Il semble qu’une erreur se soit produite. Si le problème persiste, ferme l’application et réessaie.",
-  "connectivityError": "Assure-toi d’être connecté à internet pour utiliser Medito",
-  "howDoYouFeel": "Comment te sens-tu après cette séance ?",
-  "yourFeedbackHelpsUs": "Ton avis nous aide à améliorer notre contenu et te permet de prendre du recul sur ton expérience.",
+  "anErrorOccurred": "Une erreur inconnue s’est produite. Soit nous rencontrons un problème, soit vous êtes hors ligne.",
+  "unableToLoadAudio": "Impossible de charger l’audio. Revenez en arrière et réessayez",
+  "loadingError": "On dirait que vous êtes hors ligne ou qu’un petit souci est survenu de notre côté",
+  "timeout": "Oups ! Il semble qu’une erreur se soit produite. Si le problème persiste, fermez l’application et réessayez.",
+  "connectivityError": "Assurez-vous d’être connecté à internet pour utiliser Medito",
+  "howDoYouFeel": "Comment vous sentez-vous après cette séance ?",
+  "yourFeedbackHelpsUs": "Votre avis nous aide à améliorer notre contenu et vous permet de prendre du recul sur votre expérience.",
   "didYouKnow": "Le saviez-vous ?",
-  "meditoReliesOnYourDonationsToSurvive": "Medito ne survit que grâce à tes dons. Nous produisons du contenu gratuit pour aider l’humanité.",
-  "pickTimeHelpText": "Choisis l’heure de ton rappel quotidien",
+  "meditoReliesOnYourDonationsToSurvive": "Medito ne survit que grâce à vos dons. Nous produisons du contenu gratuit pour aider l’humanité.",
+  "pickTimeHelpText": "Choisissez l’heure de votre rappel quotidien",
   "reminderNotificationScheduled": "Rappel programmé à",
   "dailyReminderTitle": "Rappel quotidien",
   "setFor": "Programmé pour",
@@ -108,19 +108,19 @@
   "history": "Historique",
   "reminderNotificationCleared": "Rappel annulé",
   "cancel": "Annuler",
-  "areYouSure": "Es-tu sûr(e) ?",
+  "areYouSure": "Êtes-vous sûr(e) ?",
   "requestPermission": "Demander l’autorisation",
   "reminderPermissions": "Autorisations de rappel",
-  "weNeedYourPermissionReminder": "Nous avons besoin de ton autorisation pour t’envoyer des rappels sur le suivi de ta progression en méditation. Cela t’aide à rester régulier dans ta pratique.",
+  "weNeedYourPermissionReminder": "Nous avons besoin de votre autorisation pour vous envoyer des rappels sur le suivi de votre progression en méditation. Cela vous aide à rester régulier dans votre pratique.",
   "syncWithHealth": "Synchroniser avec Apple Santé",
   "syncWithHealthConnect": "Synchroniser avec Health Connect",
   "permissionExplanation": "Autorisations définies. Pour les modifier, va dans Réglages > Confidentialité et sécurité > Santé > Medito",
-  "permissionExplanationAndroid": "Autorisations définies. Pour les modifier, ouvre Health Connect depuis les réglages de ton appareil.",
+  "permissionExplanationAndroid": "Autorisations définies. Pour les modifier, ouvrez Health Connect depuis les réglages de votre appareil.",
   "healthConnectNotInstalled": "Health Connect est requis pour synchroniser. L’installer depuis le Play Store ?",
   "confirmDeletionTitle": "Confirmer la suppression",
   "confirmDeletionFromPlayerTitle": "Déjà téléchargé",
-  "confirmDeletionFromPlayerMessage": "Cette méditation est déjà dans tes téléchargements. Veux-tu la supprimer ?",
-  "confirmDeletionMessage": "Es-tu sûr(e) de vouloir supprimer",
+  "confirmDeletionFromPlayerMessage": "Cette méditation est déjà dans vos téléchargements. Voulez-vous la supprimer ?",
+  "confirmDeletionMessage": "Êtes-vous sûr(e) de vouloir supprimer",
   "delete": "Supprimer",
   "copy": "Copier",
   "debugInfoCopied": "Infos de débogage copiées dans le presse-papiers",
@@ -129,7 +129,7 @@
   "signInError": "Échec de la connexion. Merci de réessayer.",
   "backgroundSoundsDisabled": "Les sons d’ambiance sont désactivés pour cette piste",
   "neww": "Nouveau",
-  "statsLoadError": "Impossible de charger les statistiques. Réessaie plus tard.",
+  "statsLoadError": "Impossible de charger les statistiques. Réessayez plus tard.",
   "statsLoading": "Chargement des statistiques…",
   "loading": "Chargement…",
   "statsErrorRetry": "Réessayer",
@@ -170,15 +170,15 @@
   "errorPrefix": "Erreur : ",
   "retryInSeconds": "Nouvelle tentative dans {seconds} s",
   "resendCodeInSeconds": "Renvoyer le code dans {seconds} s",
-  "byContinuingAgreeTo": "En continuant, tu acceptes nos ",
+  "byContinuingAgreeTo": "En continuant, vous acceptez nos ",
   "andText": " et ",
-  "streakFreezeEarned": "Félicitations ! Tu as gagné un gel de série pour avoir atteint un palier de 7 jours !",
-  "emailVerificationText": "Nous t’enverrons un code par e-mail pour vérifier ton compte",
-  "createAccountBenefits": "• Suis ton parcours de pleine conscience\\n• Ne perds jamais ta progression en méditation\\n• Construis une pratique durable 💜",
-  "loginBenefits": "• Récupère tes données précédemment enregistrées\\\\n• Continue ton parcours de méditation là où tu l’as laissé",
-  "accountTransitionWarningTitle": "Attends !",
-  "loginWarningQuestion": "Veux-tu continuer avec cette adresse e-mail ?",
-  "loginWarningExplanation": "Si tu as déjà un compte Medito :\\n• Tes données de méditation précédentes seront téléchargées\\n• Ta progression actuelle non enregistrée sera perdue\\n\\nSi tu découvres Medito :\\n• Un nouveau compte sera créé\\n• Ta progression actuelle sera enregistrée sur ce compte",
+  "streakFreezeEarned": "Félicitations ! Vous avez gagné un gel de série pour avoir atteint un palier de 7 jours !",
+  "emailVerificationText": "Nous vous enverrons un code par e-mail pour vérifier votre compte",
+  "createAccountBenefits": "• Suivez votre parcours de pleine conscience\\n• Ne perdez jamais votre progression en méditation\\n• Construisez une pratique durable 💜",
+  "loginBenefits": "• Récupérez vos données précédemment enregistrées\\\\n• Continuez votre parcours de méditation là où vous l’avez laissé",
+  "accountTransitionWarningTitle": "Attendez !",
+  "loginWarningQuestion": "Voulez-vous continuer avec cette adresse e-mail ?",
+  "loginWarningExplanation": "Si vous avez déjà un compte Medito :\\n• Vos données de méditation précédentes seront téléchargées\\n• Votre progression actuelle non enregistrée sera perdue\\n\\nSi vous découvrez Medito :\\n• Un nouveau compte sera créé\\n• Votre progression actuelle sera enregistrée sur ce compte",
   "createNewAccount": "Créer un nouveau compte",
   "continueLogin": "Oui, continuer",
   "cancelAction": "Annuler",
@@ -186,17 +186,17 @@
   "userProfileTitle": "Profil utilisateur",
   "userProfileEmailLabel": "E-mail :",
   "signOutButtonText": "Se déconnecter",
-  "signOutSuccessMessage": "Tu as été déconnecté(e) avec succès",
+  "signOutSuccessMessage": "Vous avez été déconnecté(e) avec succès",
   "signOutErrorMessage": "Échec de la déconnexion. Merci de réessayer.",
   "deleteAccountTitle": "Supprimer le compte",
-  "deleteAccountConfirmation": "Cela supprime définitivement ton compte, y compris tes statistiques et favoris. Cette action est irréversible.",
+  "deleteAccountConfirmation": "Cela supprime définitivement votre compte, y compris vos statistiques et favoris. Cette action est irréversible.",
   "deleteAccountButtonText": "Supprimer le compte",
-  "accountMarkedForDeletion": "Ton compte a été marqué pour suppression.",
+  "accountMarkedForDeletion": "Votre compte a été marqué pour suppression.",
   "deleteAccountError": "Échec de la suppression du compte.",
-  "deleteAccountDonationNotice": "Supprimer ton compte n’annule pas un don récurrent (mensuel ou annuel). Tu peux l’annuler dans le portail de dons avec l’adresse e-mail utilisée pour ton don.",
+  "deleteAccountDonationNotice": "Supprimer votre compte n’annule pas un don récurrent (mensuel ou annuel). Vous pouvez l’annuler dans le portail de dons avec l’adresse e-mail utilisée pour votre don.",
   "@deleteAccountDonationNotice": {"description": "Shown in the delete-account confirmation dialog; account deletion does not cancel Stripe subscriptions"},
   "deleteAccountManageDonations": "Gérer les dons",
-  "deleteAccountReasonTitle": "Pourquoi nous quittes-tu ?",
+  "deleteAccountReasonTitle": "Pourquoi nous quittez-vous ?",
   "@deleteAccountReasonTitle": {"description": "Heading of the delete-account reason picker screen"},
   "deleteAccountReasonSubtitle": "Facultatif, mais cela nous aide à améliorer Medito.",
   "deleteAccountReasonNotUsing": "Je ne l’utilise plus",
@@ -208,16 +208,16 @@
   "deleteAccountDetailsHint": "Autre chose à nous dire ? (facultatif)",
   "deleteAccountFinalButton": "Supprimer mon compte",
   "deleteAccountFailed": "Échec de la suppression du compte, merci de réessayer.",
-  "deleteAccountUnconfirmed": "Nous n’avons pas pu confirmer la suppression de ton compte. Vérifie ta connexion et réessaie.",
+  "deleteAccountUnconfirmed": "Nous n’avons pas pu confirmer la suppression de votre compte. Vérifiez votre connexion et réessayez.",
   "@deleteAccountUnconfirmed": {"description": "Delete-account error when the request never got a definite answer (network dropped or timed out after retries)"},
-  "accountDeletedTitle": "Ton compte a été supprimé",
+  "accountDeletedTitle": "Votre compte a été supprimé",
   "@accountDeletedTitle": {"description": "Confirmation screen shown after the account was deleted (required by Apple)"},
-  "accountDeletedBody": "Ton profil, tes statistiques et tes favoris ont été supprimés. Tu peux continuer à utiliser Medito sans compte.",
+  "accountDeletedBody": "Votre profil, vos statistiques et vos favoris ont été supprimés. Vous pouvez continuer à utiliser Medito sans compte.",
   "accountMarkedForDeletionError": "Ce compte a été marqué pour suppression et ne peut pas être consulté.",
   "faqTitle": "FAQ",
   "editStatsTitle": "Modifier les statistiques",
-  "telegramTitle": "Rejoins notre communauté Telegram",
-  "whatsappTitle": "Suis-nous sur WhatsApp",
+  "telegramTitle": "Rejoignez notre communauté Telegram",
+  "whatsappTitle": "Suivez-nous sur WhatsApp",
   "donateTitle": "Faire un don",
   "contactUsTitle": "Nous contacter",
   "accountTitle": "Compte",
@@ -228,22 +228,22 @@
   "pathLoadError": "Échec du chargement du parcours. Merci de réessayer.",
   "stepCompleted": "Étape terminée !",
   "stepCompletionError": "Échec de la validation de l’étape. Merci de réessayer.",
-  "meditatedOutsideApp": "Tu as médité en dehors de l’application ? Écoute la dernière séance déverrouillée pour débloquer l’étape suivante du parcours",
-  "enterMeditationDuration": "Indique la durée de ta méditation en dehors de l’application",
+  "meditatedOutsideApp": "Vous avez médité en dehors de l’application ? Écoutez la dernière séance déverrouillée pour débloquer l’étape suivante du parcours",
+  "enterMeditationDuration": "Indiquez la durée de votre méditation en dehors de l’application",
   "meditationMarkingError": "Échec de l’enregistrement de la méditation. Merci de réessayer.",
-  "listenToUnlockNextStep": "Écoute la dernière séance déverrouillée pour débloquer l’étape suivante",
+  "listenToUnlockNextStep": "Écoutez la dernière séance déverrouillée pour débloquer l’étape suivante",
   "unknownTaskType": "Type de tâche inconnu",
   "invalidDuration": "Durée invalide. Indique un nombre positif.",
   "submit": "Envoyer",
   "journalEntry": "Entrée de journal",
-  "writeYourJournalEntryHere": "Écris ton entrée de journal ici…",
+  "writeYourJournalEntryHere": "Écrivez votre entrée de journal ici…",
   "journalEntrySaved": "Entrée de journal enregistrée",
   "sessionCompleted": "Séance terminée avec succès !",
   "taskUpdateError": "Échec de la mise à jour de la tâche. Merci de réessayer.",
-  "syncingPath": "Synchronisation de ta progression…",
-  "stepLocked": "Termine les étapes précédentes pour débloquer",
+  "syncingPath": "Synchronisation de votre progression…",
+  "stepLocked": "Terminez les étapes précédentes pour débloquer",
   "duration": "Durée",
-  "tapToReadArticle": "Appuie pour lire l’article",
+  "tapToReadArticle": "Appuyez pour lire l’article",
   "monday": "L",
   "tuesday": "M",
   "wednesday": "M",
@@ -251,33 +251,33 @@
   "friday": "V",
   "saturday": "S",
   "sunday": "D",
-  "dailyPracticeMessage": "Pratiquer chaque jour fait grandir ta série, mais te rend aussi plus serein(e) et plus heureux(se) !",
+  "dailyPracticeMessage": "Pratiquer chaque jour fait grandir votre série, mais vous rend aussi plus serein(e) et plus heureux(se) !",
   "dayStreak": "jours de série",
   "dailyQuote": "Citation du jour",
   "termsOfService": "Conditions d’utilisation",
   "privacyPolicy": "Politique de confidentialité",
-  "offlineMode": "Tu es maintenant en mode hors ligne suite à une erreur.",
+  "offlineMode": "Vous êtes maintenant en mode hors ligne suite à une erreur.",
   "addToSiri": "Ajouter à Siri",
   "shareTrack": "Partager la piste",
   "open": "Ouvrir",
-  "shareTrackText": "Prends un instant pour respirer. Essaie cette séance de méditation : \\\"{trackName}\\\" sur Medito. {link}",
-  "sharePackText": "Découvre {packName} sur Medito ! {link} #Meditation #PleineConscience",
+  "shareTrackText": "Prenez un instant pour respirer. Essayez cette séance de méditation : \\\"{trackName}\\\" sur Medito. {link}",
+  "sharePackText": "Découvrez {packName} sur Medito ! {link} #Meditation #PleineConscience",
   "followingDeepLink": "Ouverture du lien…",
   "invalidDeepLink": "Lien invalide",
   "deepLinkError": "Impossible d’ouvrir ce lien",
-  "statsInitError": "La synchronisation des statistiques a peut-être échoué. Vérifie ta connexion.",
+  "statsInitError": "La synchronisation des statistiques a peut-être échoué. Vérifiez votre connexion.",
   "appInitError": "Échec de l’initialisation de l’application. Passage en mode hors ligne.",
   "noConnection": "Pas de connexion",
   "continueAsGuest": "Continuer",
   "isMonthlyDonor": "d",
-  "otpLabel": "Saisis le code de vérification",
+  "otpLabel": "Saisissez le code de vérification",
   "invalidOtpError": "Merci de saisir un code à 6 chiffres valide",
-  "otpSentSuccess": "Consulte tes e-mails pour trouver le code de vérification",
-  "otpInstructions": "Saisis le code que nous venons d’envoyer à",
-  "resendCode": "Tu n’as pas reçu le code ? Le renvoyer",
+  "otpSentSuccess": "Consultez vos e-mails pour trouver le code de vérification",
+  "otpInstructions": "Saisissez le code que nous venons d’envoyer à",
+  "resendCode": "Vous n’avez pas reçu le code ? Le renvoyer",
   "verifyOtpButtonText": "Continuer",
   "warningTitle": "Attention",
-  "localStatsWarning": "Te connecter à un nouveau compte entraînera la perte de tes statistiques locales actuelles. Veux-tu continuer ?",
+  "localStatsWarning": "Vous connecter à un nouveau compte entraînera la perte de vos statistiques locales actuelles. Voulez-vous continuer ?",
   "proceed": "Continuer",
   "errorNotFound": "Ressource introuvable",
   "requestOtpBeforeDeepLink": "Merci de demander un code avant d’utiliser un lien direct",
@@ -292,7 +292,7 @@
   "helpLegal": "Aide et mentions légales",
   "advanced": "Avancé",
   "restorePreviousStats": "Restaurer d’anciennes statistiques",
-  "restorePreviousStatsExplainer": "Choisis une sauvegarde à restaurer. Les sauvegardes sont créées automatiquement lors de la synchronisation de tes statistiques ; les 20 plus récentes sont conservées sur cet appareil — y compris celles d’autres comptes utilisés ici.",
+  "restorePreviousStatsExplainer": "Choisissez une sauvegarde à restaurer. Les sauvegardes sont créées automatiquement lors de la synchronisation de vos statistiques ; les 20 plus récentes sont conservées sur cet appareil — y compris celles d’autres comptes utilisés ici.",
   "noBackupsAvailable": "Aucune sauvegarde de statistiques n’est encore stockée sur cet appareil.",
   "backupSummary": "Série {streak} · {sessions, plural, =1{1 séance} other{{sessions} séances}} · {minutes} min",
   "@backupSummary": {
@@ -303,7 +303,7 @@
     }
   },
   "restoreStatsConfirmTitle": "Restaurer ces statistiques ?",
-  "restoreStatsConfirmBody": "Tes statistiques actuelles sur cet appareil seront remplacées par la sauvegarde sélectionnée, qui sera envoyée pour le compte actuellement connecté. Cette action est irréversible.",
+  "restoreStatsConfirmBody": "Vos statistiques actuelles sur cet appareil seront remplacées par la sauvegarde sélectionnée, qui sera envoyée pour le compte actuellement connecté. Cette action est irréversible.",
   "restore": "Restaurer",
   "restoreStatsSuccess": "Statistiques restaurées",
   "restoreStatsFailed": "Impossible de restaurer les statistiques. Merci de réessayer.",
@@ -331,8 +331,8 @@
     "description": "Title for the onboarding section in settings"
   },
   "enableNotificationsTitle": "Reste sur la bonne voie avec des rappels de méditation",
-  "enableNotificationsBody": "Active les notifications pour ne jamais manquer une séance.",
-  "enableNotificationsTitleLearn": "Continue sur ta lancée",
+  "enableNotificationsBody": "Activez les notifications pour ne jamais manquer une séance.",
+  "enableNotificationsTitleLearn": "Continuez sur votre lancée",
   "@enableNotificationsTitleLearn": {
     "description": "Notifications screen title for users who want to learn to meditate (intent: learn_properly)"
   },
@@ -340,7 +340,7 @@
   "@enableNotificationsBodyLearn": {
     "description": "Notifications screen body for users who want to learn to meditate (intent: learn_properly)"
   },
-  "enableNotificationsTitleHabit": "Construis l’habitude que tu recherches",
+  "enableNotificationsTitleHabit": "Construisez l’habitude que vous recherchez",
   "@enableNotificationsTitleHabit": {
     "description": "Notifications screen title for users who want to build a habit (intent: build_habit)"
   },
@@ -348,7 +348,7 @@
   "@enableNotificationsBodyHabit": {
     "description": "Notifications screen body for users who want to build a habit (intent: build_habit)"
   },
-  "enableNotificationsTitleStress": "Fais-en une partie de ta journée",
+  "enableNotificationsTitleStress": "Faites-en une partie de votre journée",
   "@enableNotificationsTitleStress": {
     "description": "Notifications screen title for users managing stress, sleep, or emotions (intent: stress_sleep_emotions)"
   },
@@ -365,7 +365,7 @@
   "@notificationPreviewTitleB": {
     "description": "Title of the fake notification shown in the onboarding notifications screen preview"
   },
-  "notificationPreviewBodyB": "Ta respiration du jour t’attend. Appuie simplement pour commencer.",
+  "notificationPreviewBodyB": "Votre respiration du jour vous attend. Appuyez simplement pour commencer.",
   "@notificationPreviewBodyB": {
     "description": "Body of the fake notification shown in the onboarding notifications screen preview"
   },
@@ -384,7 +384,7 @@
       "time": {"type": "String"}
     }
   },
-  "reminderChipsQuestion": "Quand vas-tu méditer ?",
+  "reminderChipsQuestion": "Quand allez-vous méditer ?",
   "@reminderChipsQuestion": {
     "description": "Question above the time-of-day chips in the onboarding notifications screen (chips arm of the reminder experiment)"
   },
@@ -412,7 +412,7 @@
   "@notificationsBlockedTitle": {
     "description": "Title of the dialog shown when notification permission is permanently denied, so no OS prompt can be raised and the phone's settings are the only route"
   },
-  "notificationsBlockedBody": "Medito ne peut pas envoyer de rappels car les notifications sont désactivées pour l’application dans les réglages de ton téléphone. Tu peux les réactiver là-bas.",
+  "notificationsBlockedBody": "Medito ne peut pas envoyer de rappels car les notifications sont désactivées pour l’application dans les réglages de votre téléphone. Vous pouvez les réactiver là-bas.",
   "@notificationsBlockedBody": {
     "description": "Body of the dialog shown when notification permission is permanently denied"
   },
@@ -432,7 +432,7 @@
   "@reminderPrimerTitle": {
     "description": "Title of the confirmation dialog shown before the OS notification permission prompt on the end-screen reminder card"
   },
-  "reminderPrimerBody": "Ton téléphone va te demander d’autoriser les notifications. Accepte pour que nous puissions t’envoyer un petit rappel quotidien pour méditer.",
+  "reminderPrimerBody": "Votre téléphone va vous demander d’autoriser les notifications. Acceptez pour que nous puissions vous envoyer un petit rappel quotidien pour méditer.",
   "@reminderPrimerBody": {
     "description": "Body of the confirmation dialog shown before the OS notification permission prompt"
   },
@@ -457,12 +457,12 @@
     "description": "Last row of the reminder time bottom sheet; cancels the scheduled reminders"
   },
   "onboardingBatteryTitle": "Un réglage pour des méditations plus fluides",
-  "onboardingBatteryBody": "Ton téléphone peut mettre Medito en pause en pleine séance. Un petit changement évite cela.",
+  "onboardingBatteryBody": "Votre téléphone peut mettre Medito en pause en pleine séance. Un petit changement évite cela.",
   "onboardingBatteryOptimize": "Modifier le réglage",
   "skipForNow": "Passer pour l’instant",
   "skip": "Passer",
   "donationTitle": "Des millions de personnes trouvent le calme ici gratuitement. Aide-nous à préserver cela.",
-  "donationBody": "Medito est géré par une petite équipe à but non lucratif — pas de publicités, pas d’investisseurs, pas de paywall. L’application reste gratuite parce que des personnes comme toi choisissent de la soutenir.",
+  "donationBody": "Medito est géré par une petite équipe à but non lucratif — pas de publicités, pas d’investisseurs, pas de paywall. L’application reste gratuite parce que des personnes comme vous choisissent de la soutenir.",
   "donationPrimerCta": "Voir comment aider",
   "@donationPrimerCta": {
     "description": "CTA button on the onboarding donation primer screen, opens the donation paywall"
@@ -474,17 +474,17 @@
   "allSetTitle": "C’est prêt !",
   "startMeditating": "Commencer à méditer",
   "trackingPermissionTitle": "Aide-nous à améliorer Medito",
-  "trackingPermissionBody": "Ta vie privée compte. Nous utilisons des données anonymes pour comprendre comment les gens utilisent Medito, afin de l’améliorer pour tout le monde. Nous ne collectons ni ne vendons jamais d’informations personnelles.",
-  "trackingPermissionPrivacyNote": "Tes données restent anonymes et ne sont jamais partagées avec des tiers.",
+  "trackingPermissionBody": "Votre vie privée compte. Nous utilisons des données anonymes pour comprendre comment les gens utilisent Medito, afin de l’améliorer pour tout le monde. Nous ne collectons ni ne vendons jamais d’informations personnelles.",
+  "trackingPermissionPrivacyNote": "Vos données restent anonymes et ne sont jamais partagées avec des tiers.",
   "trackingPermissionAllow": "Continuer",
-  "onboardingFirstMeditationTitle": "Ta première méditation",
-  "onboardingFirstMeditationHook": "Ton premier instant de calme.",
+  "onboardingFirstMeditationTitle": "Votre première méditation",
+  "onboardingFirstMeditationHook": "Votre premier instant de calme.",
   "onboardingFirstMeditationDuration": "Un peu plus de 2 minutes",
-  "onboardingFirstMeditationSubtitle": "Rien à faire de particulier. Installe-toi et écoute.",
+  "onboardingFirstMeditationSubtitle": "Rien à faire de particulier. Installez-vous et écoutez.",
   "onboardingFirstMeditationBegin": "Commencer",
   "onboardingFirstMeditationSkip": "Plus tard peut-être",
   "onboardingFirstMeditationSkipShort": "Passer",
-  "onboardingFirstMeditationDone": "Et voilà. Tu viens de méditer.",
+  "onboardingFirstMeditationDone": "Et voilà. Vous venez de méditer.",
   "onboardingFirstMeditationContinue": "Continuer",
   "splashHeadline": "La méditation en toute simplicité",
   "splashSubtitle": "Gratuit pour toujours. Sans publicité. À but non lucratif.",
@@ -492,7 +492,7 @@
     "description": "One-line value proposition under the splash headline"
   },
   "splashBenefit1Subtitle": "Explore des heures de méditations guidées, des cours avancés et bien plus. Aucun paywall.",
-  "splashBenefit2Subtitle": "Reste motivé(e) au quotidien, suis ta progression et construis des habitudes durables.",
+  "splashBenefit2Subtitle": "Restez motivé(e) au quotidien, suivez votre progression et construisez des habitudes durables.",
   "splashBenefit3Subtitle": "Les dons nous permettent de continuer, pour que chacun puisse accéder à la pleine conscience — sans publicité.",
   "continueText": "Continuer",
   "setReminderB": "Me rappeler chaque jour",
@@ -501,48 +501,48 @@
   },
   "donationContinueToPayment": "Continuer vers le paiement",
   "donationEmailLabel": "Adresse e-mail",
-  "donationEmailHelper": "Pour ton reçu et pour gérer ton don.",
-  "donationEmailRequired": "Indique ton e-mail pour que nous puissions t’envoyer un reçu.",
+  "donationEmailHelper": "Pour votre reçu et pour gérer votre don.",
+  "donationEmailRequired": "Indiquez votre e-mail pour que nous puissions vous envoyer un reçu.",
   "donationEmailInvalid": "Cette adresse e-mail ne semble pas correcte.",
-  "emailTypoSuggestion": "Voulais-tu dire {email} ?",
+  "emailTypoSuggestion": "Vouliez-vous dire {email} ?",
   "@emailTypoSuggestion": {
     "description": "Tappable hint under an email field when the domain looks mistyped, e.g. gmil.com.",
     "placeholders": {"email": {"type": "String"}}
   },
-  "emailTypoDialogTitle": "Vérifie ton e-mail",
-  "emailTypoDialogTyped": "Tu as saisi {email}.",
+  "emailTypoDialogTitle": "Vérifiez votre e-mail",
+  "emailTypoDialogTyped": "Vous avez saisi {email}.",
   "@emailTypoDialogTyped": {
     "description": "First line of the email typo confirm dialog.",
     "placeholders": {"email": {"type": "String"}}
   },
   "emailTypoUseSuggestion": "Utiliser celle-ci",
   "emailTypoKeepTyped": "Garder la mienne",
-  "donationThankYouTitle": "Merci pour ton soutien !",
-  "donationThankYouBody": "Ta générosité aide à garder Medito gratuit et accessible à tous. Nous te sommes profondément reconnaissants de contribuer à diffuser la pleine conscience dans le monde.",
+  "donationThankYouTitle": "Merci pour votre soutien !",
+  "donationThankYouBody": "Votre générosité aide à garder Medito gratuit et accessible à tous. Nous vous sommes profondément reconnaissants de contribuer à diffuser la pleine conscience dans le monde.",
   "donationVisitFoundation": "Visiter la fondation Medito",
   "donationContinue": "Continuer",
   "streakFreezesAvailable": "Gels de série disponibles",
-  "freezeUsedMessage": "Un gel de série a été utilisé pour maintenir ta série !",
-  "streakAtRisk": "Tu as manqué un jour",
-  "streakFreezeAvailable": "Tu as 1 gel de série disponible. Veux-tu l’utiliser pour protéger ta série actuelle ?",
-  "streakFreezesAvailableMessage": "Mais pas de souci ! Tu as {count} gels de série disponibles. Veux-tu en utiliser un pour protéger ta série actuelle ?",
+  "freezeUsedMessage": "Un gel de série a été utilisé pour maintenir votre série !",
+  "streakAtRisk": "Vous avez manqué un jour",
+  "streakFreezeAvailable": "Vous avez 1 gel de série disponible. Voulez-vous l’utiliser pour protéger votre série actuelle ?",
+  "streakFreezesAvailableMessage": "Mais pas de souci ! Vous avez {count} gels de série disponibles. Voulez-vous en utiliser un pour protéger votre série actuelle ?",
   "useStreakFreeze": "Utiliser un gel de série",
   "streakFreezesBeta": "Gels de série (Bêta)",
-  "streakFreezesBetaDescription": "Active la possibilité d’utiliser des gels de série pour maintenir ta série de méditation même en cas de jour manqué",
+  "streakFreezesBetaDescription": "Activez la possibilité d’utiliser des gels de série pour maintenir votre série de méditation même en cas de jour manqué",
   "notNow": "Pas maintenant",
   "helpTitle": "Aide",
   "meditationInterruptionTitle": "Les méditations s’arrêtent de façon inattendue",
-  "meditationInterruptionContent": "Cela vient probablement des réglages d’optimisation de batterie de ton téléphone. Rends-toi sur DontKillMyApp.com pour des instructions spécifiques permettant à Medito de fonctionner correctement en arrière-plan sur ton appareil.",
+  "meditationInterruptionContent": "Cela vient probablement des réglages d’optimisation de batterie de votre téléphone. Rendez-vous sur DontKillMyApp.com pour des instructions spécifiques permettant à Medito de fonctionner correctement en arrière-plan sur votre appareil.",
   "supportTitle": "Je veux vous soutenir",
-  "supportContent": "Tu peux soutenir la fondation Medito de plusieurs façons",
+  "supportContent": "Vous pouvez soutenir la fondation Medito de plusieurs façons",
   "stopDonationTitle": "Je veux arrêter mon don mensuel",
-  "stopDonationContent": "Rends-toi sur le portail de dons. Tu auras besoin de l’adresse e-mail utilisée lors de la mise en place",
+  "stopDonationContent": "Rendez-vous sur le portail de dons. Vous aurez besoin de l’adresse e-mail utilisée lors de la mise en place",
   "statsWrongTitle": "Mes statistiques sont incorrectes",
-  "statsWrongContent": "Tu peux les modifier sur la page dédiée à l’édition des statistiques.",
-  "contactUsContent": "Si tu as une question qui n’est pas traitée sur cette page, un retour à nous faire, ou besoin d’aide, essaie de mettre à jour l’application. Si cela ne résout pas le problème, contacte-nous. Nous sommes là pour t’aider !",
+  "statsWrongContent": "Vous pouvez les modifier sur la page dédiée à l’édition des statistiques.",
+  "contactUsContent": "Si vous avez une question qui n’est pas traitée sur cette page, un retour à nous faire, ou besoin d’aide, essayez de mettre à jour l’application. Si cela ne résout pas le problème, contactez-nous. Nous sommes là pour vous aider !",
   "contactUsActionText": "Nous contacter",
   "downloadTracksTitle": "Comment télécharger des pistes",
-  "downloadTracksContent": "Pour télécharger une piste, lance sa lecture puis cherche l’icône de téléchargement (une flèche vers le bas) en bas de l’écran de lecture — c’est la deuxième icône.\\\\n\\\\nUne fois téléchargée, retrouve tes pistes en appuyant sur la tuile \\\"Téléchargements\\\" de l’écran d’accueil.",
+  "downloadTracksContent": "Pour télécharger une piste, lancez sa lecture puis cherchez l’icône de téléchargement (une flèche vers le bas) en bas de l’écran de lecture — c’est la deuxième icône.\\\\n\\\\nUne fois téléchargée, retrouvez vos pistes en appuyant sur la tuile \\\"Téléchargements\\\" de l’écran d’accueil.",
   "openBatterySettingsText": "Visiter DontKillMyApp.com",
   "dontKillMyAppUrl": "https://dontkillmyapp.com",
   "goToDonationPortalText": "Aller au portail de dons",
@@ -555,28 +555,28 @@
   "bankTransferDetailsUrl": "https://meditofoundation.org/about/bank-details",
   "donationPortalUrl": "https://bit.ly/3yFqVbM",
   "contactFormBaseUrl": "https://tally.so/r/wLGBaO",
-  "batteryOptimizationTitle": "Ton appareil applique une optimisation de batterie supplémentaire",
-  "batteryOptimizationDescription": "Suis les étapes et désactive les optimisations pour un fonctionnement fluide de l’application",
+  "batteryOptimizationTitle": "Votre appareil applique une optimisation de batterie supplémentaire",
+  "batteryOptimizationDescription": "Suivez les étapes et désactivez les optimisations pour un fonctionnement fluide de l’application",
   "autoStartTitle": "Activer le démarrage automatique",
-  "autoStartDescription": "Suis les étapes et active le démarrage automatique de cette application",
+  "autoStartDescription": "Suivez les étapes et activez le démarrage automatique de cette application",
   "batteryOptimizationAlreadyDisabled": "L’optimisation de batterie est déjà désactivée pour Medito",
   "donationRetentionTitle": "Merci de reconsidérer",
   "donationRetentionMainMessage": "Des millions de personnes comptent sur Medito, et nous fonctionnons uniquement grâce aux dons.",
-  "donationRetentionBenefitsHeading": "Ton soutien nous aide à :",
+  "donationRetentionBenefitsHeading": "Votre soutien nous aide à :",
   "donationRetentionBenefit1": "Ajouter régulièrement de nouveaux contenus de méditation",
-  "donationRetentionBenefit2": "Développer de nouvelles fonctionnalités pour améliorer ton expérience",
+  "donationRetentionBenefit2": "Développer de nouvelles fonctionnalités pour améliorer votre expérience",
   "donationRetentionBenefit3": "Garder Medito gratuit et accessible à tous",
-  "donationRetentionFinancialMessage": "Si tu traverses des difficultés financières, nous comprenons. Mais si tu peux continuer ton soutien, même réduit, cela ferait une réelle différence.",
+  "donationRetentionFinancialMessage": "Si vous traversez des difficultés financières, nous comprenons. Mais si vous pouvez continuer votre soutien, même réduit, cela ferait une réelle différence.",
   "stayAsDonorButtonText": "Rester donateur(trice)",
   "continueToCancellationButtonText": "Continuer vers l’annulation",
-  "donationRetentionThankYouMessage": "Merci ! Ton soutien continu compte énormément pour nous et aide des millions de personnes à accéder à la méditation.",
+  "donationRetentionThankYouMessage": "Merci ! Votre soutien continu compte énormément pour nous et aide des millions de personnes à accéder à la méditation.",
   "errorNetworkMessage": "Impossible de se connecter au serveur",
   "errorNoInternetMessage": "Pas de connexion internet",
   "errorTimeoutMessage": "Délai de connexion dépassé",
   "errorHostLookupMessage": "Impossible de joindre les serveurs de Medito. Vérifie un éventuel VPN, bloqueur de publicité ou réglage DNS privé.",
   "errorConnectTimeoutMessage": "La connexion aux serveurs de Medito a expiré. Merci de réessayer.",
   "errorServerUnreachableMessage": "Impossible de se connecter aux serveurs de Medito. Merci de réessayer plus tard.",
-  "errorUnauthorizedMessage": "Session expirée, merci de te reconnecter",
+  "errorUnauthorizedMessage": "Session expirée, merci de vous reconnecter",
   "errorNotFoundMessage": "Contenu introuvable",
   "errorServerMessage": "Erreur serveur, merci de réessayer plus tard",
   "errorUnknownMessage": "Un problème est survenu, merci de réessayer",
@@ -598,15 +598,15 @@
   "@zenModeOff": {
     "description": "Zen Mode state label; button in the sheet and subtitle on the settings row"
   },
-  "zenModeOffDescription": "Afficher ta série, tes statistiques et ton score de régularité.",
+  "zenModeOffDescription": "Afficher votre série, vos statistiques et votre score de régularité.",
   "@zenModeOffDescription": {
     "description": "Description under the Off option in the Zen Mode sheet"
   },
-  "zenModeOnDescription": "Masquer ta série, tes statistiques et ton score de régularité partout dans l’application.",
+  "zenModeOnDescription": "Masquer votre série, vos statistiques et votre score de régularité partout dans l’application.",
   "@zenModeOnDescription": {
     "description": "Description under the On option in the Zen Mode sheet"
   },
-  "zenModeFootnote": "Ta progression est enregistrée dans tous les cas.",
+  "zenModeFootnote": "Votre progression est enregistrée dans tous les cas.",
   "@zenModeFootnote": {
     "description": "Small note under the Zen Mode options"
   },
@@ -618,11 +618,11 @@
   "@dndOff": {
     "description": "State label for 'Silence phone during meditation'; option in the sheet and subtitle on the settings row"
   },
-  "dndOnDescription": "Active le mode Ne pas déranger pendant qu’une séance joue, et le désactive à la fin. Les alarmes sonnent toujours.",
+  "dndOnDescription": "Activez le mode Ne pas déranger pendant qu’une séance joue, et il se désactive à la fin. Les alarmes sonnent toujours.",
   "@dndOnDescription": {
     "description": "Description under the On option in the silence-phone sheet"
   },
-  "dndOffDescription": "Laisse les notifications de ton téléphone telles quelles pendant les séances.",
+  "dndOffDescription": "Laissez les notifications de votre téléphone telles quelles pendant les séances.",
   "@dndOffDescription": {
     "description": "Description under the Off option in the silence-phone sheet"
   },
@@ -634,7 +634,7 @@
   "@dndAccessTitle": {
     "description": "Title of the dialog shown when the user turns on silence-phone without the Android permission"
   },
-  "dndAccessBody": "Pour mettre ton téléphone en silencieux pendant la méditation, Android doit accorder à Medito l’accès au mode Ne pas déranger. Sur l’écran suivant, trouve Medito dans la liste, active-le, puis reviens dans l’application.",
+  "dndAccessBody": "Pour mettre votre téléphone en silencieux pendant la méditation, Android doit accorder à Medito l’accès au mode Ne pas déranger. Sur l’écran suivant, trouvez Medito dans la liste, activez-le, puis revenez dans l’application.",
   "@dndAccessBody": {
     "description": "Body of the dialog explaining the Android Do Not Disturb access permission before opening system settings"
   },
@@ -648,12 +648,12 @@
   "payWithPaypal": "Faire un don avec PayPal",
   "bankTransfer": "Virement bancaire",
   "changeCurrency": "Changer de devise",
-  "chooseAmount": "Choisis un montant",
+  "chooseAmount": "Choisissez un montant",
   "otherPaymentMethods": "Autres moyens de don",
   "donationSecurityMessage": "Tous les dons sont traités de façon sécurisée. Nous sommes une organisation à but non lucratif enregistrée, dédiée à rendre la méditation accessible à tous.",
-  "donationImpactTitle": "Ton don nous aide à :",
+  "donationImpactTitle": "Votre don nous aide à :",
   "donationImpactPoints": "• Créer de nouveaux contenus de méditation gratuits\\n• Maintenir l’application sans publicité\\n• Rendre le bien-être mental accessible à tous\\n• Garder la méditation gratuite pour tout le monde",
-  "donationSecurityInfo": "Nous ne vendons ni n’échangeons jamais tes informations.",
+  "donationSecurityInfo": "Nous ne vendons ni n’échangeons jamais vos informations.",
   "foundationRegistrationInfo": "Medito Foundation, ou en néerlandais Stichting Medito, est une organisation à but non lucratif enregistrée aux Pays-Bas.",
   "foundationContactInfo": "KvK-nummer : 75284251\\nRSIN : 860222627\\nE-mail : hello@meditofoundation.org",
   "redirectingToSecurePayment": "Redirection vers une page de paiement sécurisée…",
@@ -661,28 +661,28 @@
   "monthlyDonation": "Mensuel",
   "singleDonation": "Ponctuel",
   "monthlyDonationImpact": "10 £/mois peuvent apporter la méditation à des centaines de personnes, en aidant à lutter contre la dépression et l’anxiété.",
-  "oneTimeDonationImpact": "Ton don soutient directement des ressources de pleine conscience gratuites, apportant la paix à des milliers de personnes dès aujourd’hui.",
+  "oneTimeDonationImpact": "Votre don soutient directement des ressources de pleine conscience gratuites, apportant la paix à des milliers de personnes dès aujourd’hui.",
   "donationSuccessful": "Don réussi !",
   "@donationSuccessful": {
     "description": "Shown in donate button when payment completes successfully"
   },
-  "completePaymentInForm": "Termine le paiement dans le formulaire ci-dessous",
+  "completePaymentInForm": "Terminez le paiement dans le formulaire ci-dessous",
   "@completePaymentInForm": {
     "description": "Shown in donate button when Stripe bottom sheet is open"
   },
-  "pleaseCompletePayment": "Merci de terminer ton paiement dans le formulaire sécurisé",
+  "pleaseCompletePayment": "Merci de terminer votre paiement dans le formulaire sécurisé",
   "@pleaseCompletePayment": {
     "description": "Helper text when Stripe bottom sheet is open"
   },
-  "processingDonation": "Traitement de ton don…",
+  "processingDonation": "Traitement de votre don…",
   "@processingDonation": {
     "description": "Helper text when payment is being processed"
   },
-  "thankYouForSupport": "Merci pour ton soutien !",
+  "thankYouForSupport": "Merci pour votre soutien !",
   "@thankYouForSupport": {
     "description": "Helper text shown after successful donation"
   },
-  "tapAmountToStart": "Appuie sur un montant ci-dessus pour commencer ton don",
+  "tapAmountToStart": "Appuyez sur un montant ci-dessus pour commencer votre don",
   "@tapAmountToStart": {
     "description": "Default helper text in donate button"
   },
@@ -692,39 +692,39 @@
   "noFavoriteTracksYet": "Aucune piste favorite pour l’instant",
   "noFavoritePacksYet": "Aucun programme favori pour l’instant",
   "noFavoritesYet": "Aucun favori pour l’instant",
-  "addItemsToFavoritesMessage": "Ajoute des éléments à tes favoris pour les retrouver ici",
+  "addItemsToFavoritesMessage": "Ajoutez des éléments à vos favoris pour les retrouver ici",
   "all": "Tout",
   "tracks": "Pistes",
   "packs": "Programmes",
   "shopTitle": "Boutique",
   "emailExistsDialogTitle": "Compte existant trouvé",
-  "emailExistsDialogMessage": "On dirait que tu t’es déjà connecté(e) avec cette adresse e-mail. Veux-tu te reconnecter avec cette adresse ?",
+  "emailExistsDialogMessage": "On dirait que vous vous êtes déjà connecté(e) avec cette adresse e-mail. Voulez-vous vous reconnecter avec cette adresse ?",
   "emailExistsContinueNewAccount": "Continuer",
   "emailExistsSignInWithEmail": "Se connecter avec l’e-mail",
   "emailMismatchDialogTitle": "Adresse e-mail différente",
-  "emailMismatchDialogMessage": "Ce téléphone a déjà été connecté avec une autre adresse e-mail. Si c’est ton compte, reviens en arrière et utilise cette adresse. Sinon, continue pour créer un nouveau compte. Ta progression existante reste associée à l’adresse d’origine.",
+  "emailMismatchDialogMessage": "Ce téléphone a déjà été connecté avec une autre adresse e-mail. Si c’est votre compte, revenez en arrière et utilisez cette adresse. Sinon, continuez pour créer un nouveau compte. Votre progression existante reste associée à l’adresse d’origine.",
   "emailMismatchStartNewAccount": "Continuer",
   "emailMismatchGoBack": "Retour",
   "analyticsTrackingTitle": "Collecte de données",
-  "analyticsTrackingContent": "Nous collectons des données d’usage et des identifiants limités (comme un identifiant utilisateur et, lorsque c’est autorisé, des identifiants d’appareil ou publicitaires) pour améliorer l’application et comprendre l’usage des fonctionnalités. Tu peux désactiver les statistiques à tout moment. Consulte notre politique de confidentialité pour plus de détails.",
+  "analyticsTrackingContent": "Nous collectons des données d’usage et des identifiants limités (comme un identifiant utilisateur et, lorsque c’est autorisé, des identifiants d’appareil ou publicitaires) pour améliorer l’application et comprendre l’usage des fonctionnalités. Vous pouvez désactiver les statistiques à tout moment. Consultez notre politique de confidentialité pour plus de détails.",
   "turnOffAnalyticsText": "Désactiver les statistiques",
   "turnOnAnalyticsText": "Activer les statistiques",
   "analyticsDisabledMessage": "Le suivi analytique a été désactivé",
   "analyticsEnabledMessage": "Le suivi analytique a été activé",
   "iosTrackingDialogTitle": "Collecte de données",
-  "iosTrackingDialogContent": "Cela désactivera le suivi analytique dans l’application. Nous pouvons collecter des identifiants limités (par ex. l’identifiant utilisateur et, lorsque c’est autorisé, des identifiants d’appareil ou publicitaires) pour mesurer l’usage et améliorer les fonctionnalités. Tu peux aussi gérer les autorisations de suivi dans Réglages iOS > Confidentialité et sécurité > Suivi.",
+  "iosTrackingDialogContent": "Cela désactivera le suivi analytique dans l’application. Nous pouvons collecter des identifiants limités (par ex. l’identifiant utilisateur et, lorsque c’est autorisé, des identifiants d’appareil ou publicitaires) pour mesurer l’usage et améliorer les fonctionnalités. Vous pouvez aussi gérer les autorisations de suivi dans Réglages iOS > Confidentialité et sécurité > Suivi.",
   "androidTrackingDialogContent": "Cela désactivera le suivi analytique dans l’application. Nous pouvons collecter des identifiants limités (par ex. l’identifiant utilisateur et, lorsque c’est autorisé, des identifiants d’appareil ou publicitaires) pour mesurer l’usage et améliorer les fonctionnalités.",
   "iosTrackingDialogCancel": "Annuler",
   "iosTrackingDialogDisable": "Désactiver le suivi",
   "newProductLabel": "NOUVEAU",
   "packsSectionHeader": "Programmes",
   "tracksSectionHeader": "Pistes",
-  "noResultsFound": "Aucun résultat pour ta recherche",
+  "noResultsFound": "Aucun résultat pour votre recherche",
   "consistencyScoreInfoTitle": "Score de régularité",
-  "consistencyScoreInfoMessage": "Ton score de régularité reflète la régularité de ta pratique depuis tes débuts. Les jours récents comptent davantage, mais les jours manqués plus anciens influencent aussi légèrement le score. Contrairement aux séries, il ne repart pas à zéro après un jour manqué.",
-  "accountDeletionInitiated": "Processus de suppression de compte initié. Merci de terminer les étapes dans ton navigateur.",
+  "consistencyScoreInfoMessage": "Votre score de régularité reflète la régularité de votre pratique depuis vos débuts. Les jours récents comptent davantage, mais les jours manqués plus anciens influencent aussi légèrement le score. Contrairement aux séries, il ne repart pas à zéro après un jour manqué.",
+  "accountDeletionInitiated": "Processus de suppression de compte initié. Merci de terminer les étapes dans votre navigateur.",
   "reportError": "Signaler un problème",
-  "errorReportedMessage": "Merci, ton signalement a bien été envoyé.",
+  "errorReportedMessage": "Merci, votre signalement a bien été envoyé.",
   "language": "Langue",
   "languageSubtitle": "Changer la langue de l’application",
   "selectLanguage": "Choisir la langue",
@@ -755,11 +755,11 @@
       }
     }
   },
-  "reportDialogQuestion": "Que souhaites-tu signaler ?",
+  "reportDialogQuestion": "Que souhaitez-vous signaler ?",
   "@reportDialogQuestion": {
     "description": "Question shown in the report dialog"
   },
-  "reportDialogHelpLink": "Consulte la page d’aide pour voir si ton problème est déjà traité",
+  "reportDialogHelpLink": "Consultez la page d’aide pour voir si votre problème est déjà traité",
   "@reportDialogHelpLink": {
     "description": "Help link text in the report dialog"
   },
@@ -807,15 +807,15 @@
   "@invalidInputError": {
     "description": "Error message for invalid input"
   },
-  "connectivityErrorMessage": "Assure-toi d’être connecté à internet pour utiliser Medito",
+  "connectivityErrorMessage": "Assurez-vous d’être connecté à internet pour utiliser Medito",
   "@connectivityErrorMessage": {
     "description": "Error message when there's no internet connection"
   },
-  "timeoutErrorMessage": "Oups ! Il semble qu’une erreur se soit produite. Si le problème persiste, ferme l’application et réessaie.",
+  "timeoutErrorMessage": "Oups ! Il semble qu’une erreur se soit produite. Si le problème persiste, fermez l’application et réessayez.",
   "@timeoutErrorMessage": {
     "description": "Error message for timeout errors"
   },
-  "anErrorOccurredMessage": "Une erreur inconnue s’est produite. Soit nous rencontrons un problème, soit tu es hors ligne.",
+  "anErrorOccurredMessage": "Une erreur inconnue s’est produite. Soit nous rencontrons un problème, soit vous êtes hors ligne.",
   "@anErrorOccurredMessage": {
     "description": "Generic error message for unknown errors"
   },
@@ -823,7 +823,7 @@
   "@reminderNotificationTitle": {
     "description": "Title for daily meditation reminder notifications"
   },
-  "reminderNotificationBody": "C’est l’heure de ta méditation du jour. Prends un instant pour te détendre et te concentrer.",
+  "reminderNotificationBody": "C’est l’heure de votre méditation du jour. Prenez un instant pour vous détendre et vous concentrer.",
   "@reminderNotificationBody": {
     "description": "Body text for daily meditation reminder notifications"
   },
@@ -847,23 +847,23 @@
   "@addWidgetSheetTitle": {
     "description": "Title of the iOS sheet explaining how to add a home screen widget"
   },
-  "addWidgetStepHold": "Maintiens appuyé un espace vide de ton écran d’accueil jusqu’à ce que les applications se mettent à bouger.",
+  "addWidgetStepHold": "Maintenez appuyé un espace vide de votre écran d’accueil jusqu’à ce que les applications se mettent à bouger.",
   "@addWidgetStepHold": {
     "description": "Step 1 of adding an iOS home screen widget"
   },
-  "addWidgetStepEdit": "Appuie sur Modifier en haut, puis sur Ajouter un widget. Sur les anciennes versions d’iOS, appuie sur +.",
+  "addWidgetStepEdit": "Appuyez sur Modifier en haut, puis sur Ajouter un widget. Sur les anciennes versions d’iOS, appuyez sur +.",
   "@addWidgetStepEdit": {
     "description": "Step 2 of adding an iOS home screen widget; Edit / Add Widget are iOS button labels"
   },
-  "addWidgetStepSearch": "Recherche Medito et choisis Streak, Consistency ou Continue.",
+  "addWidgetStepSearch": "Recherchez Medito et choisissez Streak, Consistency ou Continue.",
   "@addWidgetStepSearch": {
     "description": "Step 3; Streak, Consistency and Continue are the iOS widget gallery names (English-only in the widget extension), keep them untranslated"
   },
-  "addWidgetStepAdd": "Appuie sur Ajouter le widget, puis sur Terminé.",
+  "addWidgetStepAdd": "Appuyez sur Ajouter le widget, puis sur Terminé.",
   "@addWidgetStepAdd": {
     "description": "Step 4; Add Widget / Done are iOS button labels"
   },
-  "addWidgetFootnote": "Ton widget se met à jour après chaque méditation. Pour ton écran verrouillé, maintiens-le appuyé, puis appuie sur Personnaliser et Ajouter des widgets.",
+  "addWidgetFootnote": "Votre widget se met à jour après chaque méditation. Pour votre écran verrouillé, maintenez-le appuyé, puis appuyez sur Personnaliser et Ajouter des widgets.",
   "@addWidgetFootnote": {
     "description": "Footnote under the add-widget steps"
   },
@@ -919,7 +919,7 @@
   "@systemTheme": {
     "description": "System theme option that follows device settings"
   },
-  "systemThemeDescription": "Suit le réglage de ton appareil",
+  "systemThemeDescription": "Suit le réglage de votre appareil",
   "@systemThemeDescription": {
     "description": "Description under the System option in the theme sheet"
   },
@@ -939,7 +939,7 @@
   "@processing": {
     "description": "Loading text shown while processing donation"
   },
-  "thankYouForDonationMessage": "Merci pour ton don ! Ton soutien nous aide à poursuivre notre mission.",
+  "thankYouForDonationMessage": "Merci pour votre don ! Votre soutien nous aide à poursuivre notre mission.",
   "@thankYouForDonationMessage": {
     "description": "Success message shown after successful donation"
   },
@@ -959,7 +959,7 @@
   "@thisMayTakeAMoment": {
     "description": "Helper text shown while loading donation options"
   },
-  "paymentSuccessMessage": "Paiement réussi ! Merci pour ton don de {amount} {currency}.",
+  "paymentSuccessMessage": "Paiement réussi ! Merci pour votre don de {amount} {currency}.",
   "@paymentSuccessMessage": {
     "description": "Success message shown after successful payment",
     "placeholders": {
@@ -995,19 +995,19 @@
   "@viewAction": {
     "description": "Action label for notification actions"
   },
-  "thankYouForYourSupport": "Merci pour ton soutien",
+  "thankYouForYourSupport": "Merci pour votre soutien",
   "@thankYouForYourSupport": {
     "description": "Title shown to existing donors in the donation widget"
   },
-  "donorSupportMessage": "Nous comptons sur des donateurs comme toi pour continuer à offrir la pleine conscience à tous.",
+  "donorSupportMessage": "Nous comptons sur des donateurs comme vous pour continuer à offrir la pleine conscience à tous.",
   "@donorSupportMessage": {
     "description": "Message shown to existing donors explaining their importance"
   },
-  "donationInfoTitle": "Pourquoi tu peux voir ceci",
+  "donationInfoTitle": "Pourquoi vous pouvez voir ceci",
   "@donationInfoTitle": {
     "description": "Title for the donation info dialog explaining why users might see the donation ask"
   },
-  "donationInfoMessage": "Il nous arrive de ne pas savoir qu’une personne a déjà fait un don. Nous cherchons à améliorer cela. Tu peux masquer ce message un moment si tu as déjà donné.",
+  "donationInfoMessage": "Il nous arrive de ne pas savoir qu’une personne a déjà fait un don. Nous cherchons à améliorer cela. Vous pouvez masquer ce message un moment si vous avez déjà donné.",
   "@donationInfoMessage": {
     "description": "Message explaining why users might see the donation ask even if they've donated"
   },
@@ -1027,15 +1027,15 @@
   "@turnOnReminders": {
     "description": "Button text to enable daily reminders"
   },
-  "reminderPromptDismissedMessage": "Tu peux activer ou désactiver les rappels dans les réglages",
+  "reminderPromptDismissedMessage": "Vous pouvez activer ou désactiver les rappels dans les réglages",
   "@reminderPromptDismissedMessage": {
     "description": "Message shown when user dismisses the reminder prompt on the end screen"
   },
-  "reminderDay1TitleVar1": "Garde ta série 🌱",
+  "reminderDay1TitleVar1": "Gardez votre série 🌱",
   "@reminderDay1TitleVar1": {
     "description": "Daily reminder day 1 title variant 1"
   },
-  "reminderDay1BodyVar1": "Tu as une série de {streak} jours. On continue ?",
+  "reminderDay1BodyVar1": "Vous avez une série de {streak} jours. On continue ?",
   "@reminderDay1BodyVar1": {
     "description": "Daily reminder day 1 body variant 1",
     "placeholders": {
@@ -1063,15 +1063,15 @@
   "@reminderDay1TitleVar3": {
     "description": "Daily reminder day 1 title variant 3"
   },
-  "reminderDay1BodyVar3": "Quelques minutes maintenant suffisent pour garder ton élan.",
+  "reminderDay1BodyVar3": "Quelques minutes maintenant suffisent pour garder votre élan.",
   "@reminderDay1BodyVar3": {
     "description": "Daily reminder day 1 body variant 3"
   },
-  "reminderDay1TitleVar4": "Ta pratique t’attend 🌸",
+  "reminderDay1TitleVar4": "Votre pratique vous attend 🌸",
   "@reminderDay1TitleVar4": {
     "description": "Daily reminder day 1 title variant 4"
   },
-  "reminderDay1BodyVar4": "Prends un instant pour te reconnecter à toi-même.",
+  "reminderDay1BodyVar4": "Prenez un instant pour vous reconnecter à vous-même.",
   "@reminderDay1BodyVar4": {
     "description": "Daily reminder day 1 body variant 4"
   },
@@ -1083,7 +1083,7 @@
   "@reminderDay1BodyVar5": {
     "description": "Daily reminder day 1 body variant 5"
   },
-  "reminderDay2TitleVar1": "Garde le rythme 🔁",
+  "reminderDay2TitleVar1": "Gardez le rythme 🔁",
   "@reminderDay2TitleVar1": {
     "description": "Daily reminder day 2 title variant 1"
   },
@@ -1091,19 +1091,19 @@
   "@reminderDay2BodyVar1": {
     "description": "Daily reminder day 2 body variant 1"
   },
-  "reminderDay2TitleVar2": "Construis ton rythme 🧘",
+  "reminderDay2TitleVar2": "Construisez votre rythme 🧘",
   "@reminderDay2TitleVar2": {
     "description": "Daily reminder day 2 title variant 2"
   },
-  "reminderDay2BodyVar2": "Une nouvelle pratique en douceur t’attend.",
+  "reminderDay2BodyVar2": "Une nouvelle pratique en douceur vous attend.",
   "@reminderDay2BodyVar2": {
     "description": "Daily reminder day 2 body variant 2"
   },
-  "reminderDay2TitleVar3": "Tu vas y arriver 🌟",
+  "reminderDay2TitleVar3": "Vous allez y arriver 🌟",
   "@reminderDay2TitleVar3": {
     "description": "Daily reminder day 2 title variant 3"
   },
-  "reminderDay2BodyVar3": "Reviens à ta respiration, un instant à la fois.",
+  "reminderDay2BodyVar3": "Revenez à votre respiration, un instant à la fois.",
   "@reminderDay2BodyVar3": {
     "description": "Daily reminder day 2 body variant 3"
   },
@@ -1119,15 +1119,15 @@
   "@reminderDay2TitleVar5": {
     "description": "Daily reminder day 2 title variant 5"
   },
-  "reminderDay2BodyVar5": "Ta pratique de pleine conscience est là quand tu es prêt(e).",
+  "reminderDay2BodyVar5": "Votre pratique de pleine conscience est là quand vous êtes prêt(e).",
   "@reminderDay2BodyVar5": {
     "description": "Daily reminder day 2 body variant 5"
   },
-  "reminderDay3TitleVar1": "Installe l’habitude 📆",
+  "reminderDay3TitleVar1": "Installez l’habitude 📆",
   "@reminderDay3TitleVar1": {
     "description": "Daily reminder day 3 title variant 1"
   },
-  "reminderDay3BodyVar1": "L’élan compte. Tu vas y arriver.",
+  "reminderDay3BodyVar1": "L’élan compte. Vous allez y arriver.",
   "@reminderDay3BodyVar1": {
     "description": "Daily reminder day 3 body variant 1"
   },
@@ -1135,7 +1135,7 @@
   "@reminderDay3TitleVar2": {
     "description": "Daily reminder day 3 title variant 2"
   },
-  "reminderDay3BodyVar2": "Ta pratique prend forme.",
+  "reminderDay3BodyVar2": "Votre pratique prend forme.",
   "@reminderDay3BodyVar2": {
     "description": "Daily reminder day 3 body variant 2"
   },
@@ -1155,11 +1155,11 @@
   "@reminderDay3BodyVar4": {
     "description": "Daily reminder day 3 body variant 4"
   },
-  "reminderDay3TitleVar5": "Retrouve ton calme 🕊️",
+  "reminderDay3TitleVar5": "Retrouvez votre calme 🕊️",
   "@reminderDay3TitleVar5": {
     "description": "Daily reminder day 3 title variant 5"
   },
-  "reminderDay3BodyVar5": "Une courte pause peut transformer toute ta journée.",
+  "reminderDay3BodyVar5": "Une courte pause peut transformer toute votre journée.",
   "@reminderDay3BodyVar5": {
     "description": "Daily reminder day 3 body variant 5"
   },
@@ -1167,7 +1167,7 @@
   "@reminderDay4Title": {
     "description": "Daily reminder day 4 title"
   },
-  "reminderDay4Body": "Cela fait 4 jours que tu n’as pas médité. Reprends ta pratique avec une courte séance.",
+  "reminderDay4Body": "Cela fait 4 jours que vous n’avez pas médité. Reprenez votre pratique avec une courte séance.",
   "@reminderDay4Body": {
     "description": "Daily reminder day 4 body"
   },
@@ -1175,7 +1175,7 @@
   "@reminderDay5Title": {
     "description": "Daily reminder day 5 title"
   },
-  "reminderDay5Body": "Cela fait 5 jours. Une pause calme maintenant peut t’aider à reprendre le rythme.",
+  "reminderDay5Body": "Cela fait 5 jours. Une pause calme maintenant peut vous aider à reprendre le rythme.",
   "@reminderDay5Body": {
     "description": "Daily reminder day 5 body"
   },
@@ -1183,7 +1183,7 @@
   "@reminderDay6Title": {
     "description": "Daily reminder day 6 title"
   },
-  "reminderDay6Body": "Cela fait presque une semaine que tu n’as pas médité. Clôture la boucle avec un instant de pleine conscience.",
+  "reminderDay6Body": "Cela fait presque une semaine que vous n’avez pas médité. Clôturez la boucle avec un instant de pleine conscience.",
   "@reminderDay6Body": {
     "description": "Daily reminder day 6 body"
   },
@@ -1191,7 +1191,7 @@
   "@reminderDay7Title": {
     "description": "Daily reminder day 7 title"
   },
-  "reminderDay7Body": "Cela fait une semaine que tu n’as pas médité. Prends un instant pour toi maintenant.",
+  "reminderDay7Body": "Cela fait une semaine que vous n’avez pas médité. Prenez un instant pour vous maintenant.",
   "@reminderDay7Body": {
     "description": "Daily reminder day 7 body"
   },
@@ -1203,11 +1203,11 @@
   "@reminderDay8Body": {
     "description": "Daily reminder day 8 body"
   },
-  "reminderDay9Title": "Retrouve ton centre 🎯",
+  "reminderDay9Title": "Retrouvez votre centre 🎯",
   "@reminderDay9Title": {
     "description": "Daily reminder day 9 title"
   },
-  "reminderDay9Body": "Une courte séance peut relancer ta journée.",
+  "reminderDay9Body": "Une courte séance peut relancer votre journée.",
   "@reminderDay9Body": {
     "description": "Daily reminder day 9 body"
   },
@@ -1215,7 +1215,7 @@
   "@reminderDay10Title": {
     "description": "Daily reminder day 10 title"
   },
-  "reminderDay10Body": "Cela fait 10 jours que tu n’as pas médité. Reprends là où tu t’étais arrêté(e).",
+  "reminderDay10Body": "Cela fait 10 jours que vous n’avez pas médité. Reprenez là où vous vous étiez arrêté(e).",
   "@reminderDay10Body": {
     "description": "Daily reminder day 10 body"
   },
@@ -1223,15 +1223,15 @@
   "@reminderDay11Title": {
     "description": "Daily reminder day 11 title"
   },
-  "reminderDay11Body": "Fais une pause, respire, et observe comment tu te sens.",
+  "reminderDay11Body": "Faites une pause, respirez, et observez comment vous vous sentez.",
   "@reminderDay11Body": {
     "description": "Daily reminder day 11 body"
   },
-  "reminderDay12Title": "Garde le cap 🧭",
+  "reminderDay12Title": "Gardez le cap 🧭",
   "@reminderDay12Title": {
     "description": "Daily reminder day 12 title"
   },
-  "reminderDay12Body": "Un moment de calme t’attend.",
+  "reminderDay12Body": "Un moment de calme vous attend.",
   "@reminderDay12Body": {
     "description": "Daily reminder day 12 body"
   },
@@ -1239,7 +1239,7 @@
   "@reminderDay13Title": {
     "description": "Daily reminder day 13 title"
   },
-  "reminderDay13Body": "Cela fait presque deux semaines que tu n’as pas médité. Essaie un redémarrage de deux minutes.",
+  "reminderDay13Body": "Cela fait presque deux semaines que vous n’avez pas médité. Essayez un redémarrage de deux minutes.",
   "@reminderDay13Body": {
     "description": "Daily reminder day 13 body"
   },
@@ -1247,7 +1247,7 @@
   "@reminderDay14Title": {
     "description": "Daily reminder day 14 title"
   },
-  "reminderDay14Body": "Cela fait 14 jours que tu n’as pas médité. Reprends ta pratique maintenant, en douceur.",
+  "reminderDay14Body": "Cela fait 14 jours que vous n’avez pas médité. Reprenez votre pratique maintenant, en douceur.",
   "@reminderDay14Body": {
     "description": "Daily reminder day 14 body"
   },
@@ -1255,7 +1255,7 @@
   "@reminderDay15Title": {
     "description": "Daily reminder day 15 title"
   },
-  "reminderDay15Body": "Nous mettons les rappels en pause pour l’instant. Nous sommes là quand tu seras prêt(e).",
+  "reminderDay15Body": "Nous mettons les rappels en pause pour l’instant. Nous sommes là quand vous serez prêt(e).",
   "@reminderDay15Body": {
     "description": "Daily reminder day 15 body"
   },
@@ -1263,7 +1263,7 @@
   "@reminderDay30Title": {
     "description": "Daily reminder day 30 title"
   },
-  "reminderDay30Body": "Cela fait un mois que tu n’as pas médité. Seulement 2 minutes peuvent t’aider à te sentir mieux. Nous sommes là quand tu es prêt(e).",
+  "reminderDay30Body": "Cela fait un mois que vous n’avez pas médité. Seulement 2 minutes peuvent vous aider à vous sentir mieux. Nous sommes là quand vous êtes prêt(e).",
   "@reminderDay30Body": {
     "description": "Daily reminder day 30 body"
   },
@@ -1303,7 +1303,7 @@
   "@deleteSessionTitle": {
     "description": "Title for the dialog confirming deletion of a tracked session"
   },
-  "deleteSessionConfirmation": "Es-tu sûr(e) de vouloir supprimer cette séance ? Cela mettra à jour ta série et tes statistiques.",
+  "deleteSessionConfirmation": "Êtes-vous sûr(e) de vouloir supprimer cette séance ? Cela mettra à jour votre série et vos statistiques.",
   "@deleteSessionConfirmation": {
     "description": "Confirmation message shown when the user long-presses a session to delete it"
   },
@@ -1387,7 +1387,7 @@
   "@manuallyAddedSession": {
     "description": "Placeholder text shown for manually added sessions when no custom title is provided"
   },
-  "addSessionExplanation": "Si tu as médité en dehors de l’application, tu peux l’ajouter ici pour la suivre dans tes statistiques.",
+  "addSessionExplanation": "Si vous avez médité en dehors de l’application, vous pouvez l’ajouter ici pour la suivre dans vos statistiques.",
   "@addSessionExplanation": {
     "description": "Explanation text for the add session dialog"
   },
@@ -1411,7 +1411,7 @@
       "total": {"type": "int"}
     }
   },
-  "upNextPackCompletedTitle": "Tu as terminé {packTitle}",
+  "upNextPackCompletedTitle": "Vous avez terminé {packTitle}",
   "@upNextPackCompletedTitle": {
     "description": "Headline on the Up Next card when every session in the pinned pack is complete",
     "placeholders": {
@@ -1445,7 +1445,7 @@
       }
     }
   },
-  "upNextPathCompletedTitle": "Tu as terminé tous les programmes de la série",
+  "upNextPathCompletedTitle": "Vous avez terminé tous les programmes de la série",
   "@upNextPathCompletedTitle": {
     "description": "Headline shown when the user finishes the final pack in the curated sequence"
   },
@@ -1500,7 +1500,7 @@
   "@notSet": {
     "description": "Text shown when a default value is not set"
   },
-  "defaultsNote": "Défini à partir de ce que tu écoutes sur n’importe quelle piste. L’accueil et ta montre les utilisent pour démarrer des séances sans passer par l’écran de sélection.",
+  "defaultsNote": "Défini à partir de ce que vous écoutez sur n’importe quelle piste. L’accueil et votre montre les utilisent pour démarrer des séances sans passer par l’écran de sélection.",
   "@defaultsNote": {
     "description": "Note explaining how defaults work in Up Next"
   },
@@ -1600,19 +1600,19 @@
   "@lockedContent": {
     "description": "Accessibility label for a locked track item"
   },
-  "yourPathExplainerText": "Apprends la méditation minute par minute. Les séances s’allongent au fil de ta progression.",
+  "yourPathExplainerText": "Apprenez la méditation minute par minute. Les séances s’allongent au fil de votre progression.",
   "@yourPathExplainerText": {
     "description": "Stage 1 text in the Your Path explainer strip shown below the card on the home screen"
   },
-  "yourPathExplainerSwipeHint": "Glisse vers la gauche pour passer ou ouvrir le programme.",
+  "yourPathExplainerSwipeHint": "Glissez vers la gauche pour passer ou ouvrir le programme.",
   "@yourPathExplainerSwipeHint": {
     "description": "Stage 2 text in the Your Path explainer strip, shown after the user taps Got it"
   },
-  "onboardingExperienceQuestion": "As-tu déjà médité ?",
+  "onboardingExperienceQuestion": "Avez-vous déjà médité ?",
   "@onboardingExperienceQuestion": {
     "description": "Question on onboarding screen 1 — asking about the user's meditation experience"
   },
-  "onboardingExperienceSubtext": "Cela nous aide à te proposer le bon point de départ.",
+  "onboardingExperienceSubtext": "Cela nous aide à vous proposer le bon point de départ.",
   "@onboardingExperienceSubtext": {
     "description": "Subtext below the question on onboarding screen 1"
   },
@@ -1628,11 +1628,11 @@
   "@onboardingExperienceRegular": {
     "description": "Option 3 on onboarding screen 1 — user has a regular meditation practice"
   },
-  "onboardingIntentQuestion": "Qu’attends-tu de Medito ?",
+  "onboardingIntentQuestion": "Qu’attendez-vous de Medito ?",
   "@onboardingIntentQuestion": {
     "description": "Question on onboarding screen 2 — asking about the user's intention"
   },
-  "onboardingIntentSubtext": "Choisis ce qui te correspond le mieux en ce moment.",
+  "onboardingIntentSubtext": "Choisissez ce qui vous correspond le mieux en ce moment.",
   "@onboardingIntentSubtext": {
     "description": "Subtext below the question on onboarding screen 2"
   },
@@ -1656,7 +1656,7 @@
   "@onboardingStep2of2": {
     "description": "Step indicator label on onboarding question screen 2 (of 2)"
   },
-  "onboardingAttributionQuestion": "Comment as-tu découvert Medito ?",
+  "onboardingAttributionQuestion": "Comment avez-vous découvert Medito ?",
   "@onboardingAttributionQuestion": {
     "description": "Question on onboarding attribution screen — asking how the user discovered Medito"
   },
@@ -1696,23 +1696,23 @@
   "@onboardingAttributionOtherLabel": {
     "description": "Label above the free-text field on the attribution question, prompting users to type their own answer"
   },
-  "onboardingAttributionOtherHint": "Dis-nous où tu as entendu parler de nous",
+  "onboardingAttributionOtherHint": "Dites-nous où vous avez entendu parler de nous",
   "@onboardingAttributionOtherHint": {
     "description": "Placeholder text inside the free-text attribution field"
   },
-  "onboardingResultLearnHeading": "Tu es au bon endroit.",
+  "onboardingResultLearnHeading": "Vous êtes au bon endroit.",
   "@onboardingResultLearnHeading": {
     "description": "Heading on the onboarding result screen for users who are new or want to learn (State A)"
   },
-  "onboardingResultLearnBody": "Nous allons commencer avec juste 1 minute et progresser à partir de là. Aucune expérience nécessaire — viens comme tu es.",
+  "onboardingResultLearnBody": "Nous allons commencer avec juste 1 minute et progresser à partir de là. Aucune expérience nécessaire — venez comme vous êtes.",
   "@onboardingResultLearnBody": {
     "description": "Body text on the onboarding result screen for State A"
   },
-  "onboardingResultEaseInHeading": "Ravis de te revoir.",
+  "onboardingResultEaseInHeading": "Ravis de vous revoir.",
   "@onboardingResultEaseInHeading": {
     "description": "Heading on the onboarding result screen for users with some experience (State B)"
   },
-  "onboardingResultEaseInBody": "Nous allons te remettre en douceur avec de courtes séances qui s’enchaînent. Avance à ton propre rythme.",
+  "onboardingResultEaseInBody": "Nous allons vous remettre en douceur avec de courtes séances qui s’enchaînent. Avancez à votre propre rythme.",
   "@onboardingResultEaseInBody": {
     "description": "Body text on the onboarding result screen for State B"
   },
@@ -1720,7 +1720,7 @@
   "@onboardingResultPracticeHeading": {
     "description": "Heading on the onboarding result screen for users with a regular practice (State C)"
   },
-  "onboardingResultPracticeBody": "Ton Quotidien est idéal pour poursuivre ta pratique. Une nouvelle séance t’attend chaque jour.",
+  "onboardingResultPracticeBody": "Votre Quotidien est idéal pour poursuivre votre pratique. Une nouvelle séance vous attend chaque jour.",
   "@onboardingResultPracticeBody": {
     "description": "Body text on the onboarding result screen for State C"
   },
@@ -1756,7 +1756,7 @@
   "@connectionErrorTitle": {
     "description": "Title shown when the donation paywall webview fails to load"
   },
-  "connectionErrorMessage": "Vérifie ta connexion et réessaie.",
+  "connectionErrorMessage": "Vérifiez votre connexion et réessayez.",
   "@connectionErrorMessage": {
     "description": "Body text shown when the donation paywall webview fails to load"
   },
@@ -1784,11 +1784,11 @@
   "@markTrackIncomplete": {
     "description": "Accessibility label for the per-track toggle when the track is complete"
   },
-  "accountPromptTitle": "Protège ta progression",
+  "accountPromptTitle": "Protégez votre progression",
   "@accountPromptTitle": {
     "description": "Title of the end-screen card that invites an anonymous user to add an email to their account"
   },
-  "accountPromptBody": "Ajoute ton e-mail pour que ta série et ton historique te suivent sur un nouveau téléphone.",
+  "accountPromptBody": "Ajoutez votre e-mail pour que votre série et votre historique vous suivent sur un nouveau téléphone.",
   "@accountPromptBody": {
     "description": "Body of the end-screen account-conversion card"
   },
@@ -1976,7 +1976,7 @@
   },
   "sessionBells": "Cloches de séance",
   "sessionBellsDescription": "Une cloche au début, au milieu et à la fin",
-  "upNextStartHere": "Commence ici",
+  "upNextStartHere": "Commencez ici",
   "@upNextStartHere": {
     "description": "Eyebrow on the home hero when nothing in the pack has been played yet, e.g. START HERE · Getting started"
   },
@@ -2000,7 +2000,7 @@
   "@packContinue": {
     "description": "Pack screen play button once some sessions are done; also puts the pack on Home"
   },
-  "packAddedToHome": "Ajouté à l’accueil pour reprendre où tu t’étais arrêté(e).",
+  "packAddedToHome": "Ajouté à l’accueil pour reprendre où vous vous étiez arrêté(e).",
   "@packAddedToHome": {
     "description": "Snackbar after the pack screen Start/Continue button puts a new pack on Home; offers Undo"
   },
@@ -2024,11 +2024,11 @@
   "@shopSize": {"description": "Label above the size pills on the product page"},
   "shopOption": "Option",
   "@shopOption": {"description": "Label above option pills for products without colour or size, e.g. gift card amounts"},
-  "shopBagTitle": "Ton panier",
+  "shopBagTitle": "Votre panier",
   "@shopBagTitle": {"description": "Title of the shopping bag sheet"},
-  "shopBagEmpty": "Ton panier est vide",
+  "shopBagEmpty": "Votre panier est vide",
   "@shopBagEmpty": {"description": "Empty state title in the shopping bag sheet"},
-  "shopBagEmptyBody": "Tout ce que tu ajoutes t’attendra ici jusqu’à ce que tu sois prêt(e).",
+  "shopBagEmptyBody": "Tout ce que vous ajoutez vous attendra ici jusqu’à ce que vous soyez prêt(e).",
   "@shopBagEmptyBody": {"description": "Empty state body in the shopping bag sheet"},
   "shopBrowse": "Parcourir la boutique",
   "@shopBrowse": {"description": "Button in the empty bag that opens the shop"},
@@ -2038,7 +2038,7 @@
   "@shopShippingNote": {"description": "Bag sheet note under the subtotal"},
   "shopCheckout": "Paiement",
   "@shopCheckout": {"description": "Bag sheet button that opens the secure checkout page"},
-  "shopCheckoutPrompt": "Tu as déjà passé ta commande ?",
+  "shopCheckoutPrompt": "Avez-vous déjà passé votre commande ?",
   "@shopCheckoutPrompt": {"description": "Bag sheet card shown after the user returned from checkout; offers to clear the bag"},
   "shopClearBag": "Vider le panier",
   "@shopClearBag": {"description": "Button that removes everything from the shopping bag"},
@@ -2062,11 +2062,11 @@
   "@shopBagItemCount": {"description": "Count of units in the shopping bag, under the bag title", "placeholders": {"count": {"type": "int"}}},
   "shopSeeAll": "Voir tout",
   "@shopSeeAll": {"description": "Last tile of the home shop carousel; opens the full shop"},
-  "shopAddOnsTitle": "Ajoute un petit extra",
+  "shopAddOnsTitle": "Ajoutez un petit extra",
   "@shopAddOnsTitle": {"description": "Bag sheet: heading over a row of cheap add-on products (stickers)"},
   "shopSizeGuide": "Guide des tailles",
   "@shopSizeGuide": {"description": "Product page: link next to the size picker that opens the size chart"},
-  "shopSizeChartNote": "Mesures du vêtement à plat, fournies par le fournisseur. Elles peuvent varier jusqu’à 5 cm, compare donc avec un t-shirt que tu possèdes déjà.",
+  "shopSizeChartNote": "Mesures du vêtement à plat, fournies par le fournisseur. Elles peuvent varier jusqu’à 5 cm, comparez donc avec un t-shirt que vous possédez déjà.",
   "@shopSizeChartNote": {"description": "Under the size chart on the product page"},
   "shopMeasureLength": "Longueur",
   "@shopMeasureLength": {"description": "Size chart column: garment length"},
@@ -2086,7 +2086,7 @@
   "@timerHoursLabel": {"description": "Label under the hours wheel on the Timer screen"},
   "timerMinutesLabel": "Minutes",
   "@timerMinutesLabel": {"description": "Label under the minutes wheel on the Timer screen"},
-  "timerStopwatchCaption": "Le temps s’écoule à partir de zéro. Appuie sur stop quand tu as terminé et la séance est enregistrée.",
+  "timerStopwatchCaption": "Le temps s’écoule à partir de zéro. Appuyez sur stop quand vous avez terminé et la séance est enregistrée.",
   "@timerStopwatchCaption": {"description": "Body of the card explaining Stopwatch mode on the Timer screen"},
   "timerStart": "Démarrer",
   "@timerStart": {"description": "Timer screen primary button"},
@@ -2106,9 +2106,9 @@
     "description": "Screen reader label of a duration chip on the Timer screen",
     "placeholders": {"minutes": {"type": "int"}}
   },
-  "soundNeedsConnection": "Non téléchargé. Connecte-toi pour lire",
+  "soundNeedsConnection": "Non téléchargé. Connectez-vous pour lire",
   "@soundNeedsConnection": {"description": "Background sound row offline when the sound was never downloaded, so it cannot play"},
-  "timerStopwatchTitle": "Assieds-toi aussi longtemps que tu le souhaites",
+  "timerStopwatchTitle": "Asseyez-vous aussi longtemps que vous le souhaitez",
   "@timerStopwatchTitle": {"description": "Title of the card explaining Stopwatch mode on the Timer screen"},
   "openTimer": "Ouvrir le minuteur",
   "@openTimer": {"description": "Offline screen link that opens the Timer, which works without a connection"},
@@ -2196,17 +2196,17 @@
   },
   "endScreenDone": "Terminé",
   "@endScreenDone": {"description": "Button that closes an end screen shown on the next launch and returns to Home"},
-  "endScreenRestoredLastNight": "Bon retour. Tu as terminé « {title} » hier soir.",
+  "endScreenRestoredLastNight": "Bon retour. Vous avez terminé « {title} » hier soir.",
   "@endScreenRestoredLastNight": {"description": "Top line of an end screen shown on the next launch because the app was closed before it could appear (e.g. the user fell asleep). The session ended between 6pm yesterday and 5am today.", "placeholders": {"title": {"type": "String"}}},
-  "endScreenRestoredEarlierToday": "Bon retour. Tu as terminé « {title} » plus tôt aujourd’hui.",
+  "endScreenRestoredEarlierToday": "Bon retour. Vous avez terminé « {title} » plus tôt aujourd’hui.",
   "@endScreenRestoredEarlierToday": {"description": "As endScreenRestoredLastNight, for a session that ended earlier today", "placeholders": {"title": {"type": "String"}}},
-  "endScreenRestoredYesterday": "Bon retour. Tu as terminé « {title} » hier.",
+  "endScreenRestoredYesterday": "Bon retour. Vous avez terminé « {title} » hier.",
   "@endScreenRestoredYesterday": {"description": "As endScreenRestoredLastNight, for a session that ended yesterday during the day", "placeholders": {"title": {"type": "String"}}},
-  "endScreenRestoredTimerLastNight": "Bon retour. Tu as terminé un minuteur de {minutes} minutes hier soir.",
+  "endScreenRestoredTimerLastNight": "Bon retour. Vous avez terminé un minuteur de {minutes} minutes hier soir.",
   "@endScreenRestoredTimerLastNight": {"description": "As endScreenRestoredLastNight, for a Timer session of {minutes} minutes", "placeholders": {"minutes": {"type": "int"}}},
-  "endScreenRestoredTimerEarlierToday": "Bon retour. Tu as terminé un minuteur de {minutes} minutes plus tôt aujourd’hui.",
+  "endScreenRestoredTimerEarlierToday": "Bon retour. Vous avez terminé un minuteur de {minutes} minutes plus tôt aujourd’hui.",
   "@endScreenRestoredTimerEarlierToday": {"description": "As endScreenRestoredEarlierToday, for a Timer session", "placeholders": {"minutes": {"type": "int"}}},
-  "endScreenRestoredTimerYesterday": "Bon retour. Tu as terminé un minuteur de {minutes} minutes hier.",
+  "endScreenRestoredTimerYesterday": "Bon retour. Vous avez terminé un minuteur de {minutes} minutes hier.",
   "@endScreenRestoredTimerYesterday": {"description": "As endScreenRestoredYesterday, for a Timer session", "placeholders": {"minutes": {"type": "int"}}},
   "upNextVariant": "{guide} · {minutes} min",
   "@upNextVariant": {
